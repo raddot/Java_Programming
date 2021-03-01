@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SpyNumber {
+public class SuperNumber {
 	public static void main(String[] args)
 	{
 		int number,temp,sum;
